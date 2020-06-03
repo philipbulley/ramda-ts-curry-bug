@@ -2,7 +2,7 @@
 
 Reproduction of bug regarding assignment of a curried function to a variable with an `F.Curry` type.
 
-Please see `index.ts` for code.
+Please see `src/index.ts` for code.
 
 To see the bug:
 
